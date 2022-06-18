@@ -1,4 +1,4 @@
-# JavaScript
+# JavaScript - HomeWork
 
 
 ## Task 1.
